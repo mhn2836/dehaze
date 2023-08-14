@@ -8,14 +8,18 @@ The model can removal hazy, smoke.
 ## Setup:
 
 依赖的库
+
 torch, numpy, tqdm, torchvision, kornia, opencv-python
 
 
 ## Training：
 
 将带雾训练数据集放在./haze 文件夹下 对应的清晰数据集放在./gt文件夹下。
+
 运行命令 python train.py。 
+
 训练过程可在./result文件夹下找到。
+
 模型保存在./model文件夹下。
 
 ## Test model：
