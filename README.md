@@ -1,4 +1,4 @@
-# 
+# My dehaze algorithm
 This is the PyTorch implementation for my work based on CVPR'21 paper 4KDehazing. 
 The model can removal hazy, smoke.
 
@@ -29,16 +29,31 @@ SSIM_PSNR Test：
 
 ssim_psnr.py
 
+
+
+
 Time inference：
 
 time.py
 
+
+
+
+
+# Other work
+
+
+
+# Cite
 Cite:
 {
   title     = {Ultra-High-Definition Image Dehazing via Multi-Guided Bilateral Learning},
   booktitle = {CVPR},
   year      = {2021}
 }
+
+
+
 
 
 
