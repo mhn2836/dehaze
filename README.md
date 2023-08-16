@@ -42,7 +42,7 @@ time.py
 
 
 # Other work
-
+https://github.com/mhn2836/YOLOv5s-joint
 
 
 # Cite
